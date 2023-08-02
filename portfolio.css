@@ -1,0 +1,41 @@
+.A{
+	height: 75px;
+	width: 1500px;
+	margin-top: 15px;
+	border-radius: 10px;
+}
+.B{
+	width:700px;
+	color: powderblue;
+	float: left;
+	margin-left: 150px;
+	font-size: 25px;
+}
+.C{
+	width: 400px;
+	float: left;
+	color: powderblue;
+	font-size: 25px;
+	margin-top: 40px;
+	padding-left: 200px;
+}
+.D{
+	color: powderblue;
+	margin-left: 100px;
+	font-size: 30px;
+}
+.a{
+	height: 650px;
+	width: 800px;
+	padding-left: 100px;
+	float: left;
+}
+.b{
+	height: 200px;
+	width: 400px;
+	padding-top: 200px;
+	padding-right: 50px;
+	padding-left: 50px;
+	color: powderblue;
+	font-size: 20px;
+}
